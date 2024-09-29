@@ -13,7 +13,7 @@ Video musical de programação gerado por inteligencia artificial
 Foi utilizado Suno AI para gerar uma música com tema de programadores defendendo trabalho remoto, Leonardo AI para gerar uma imagem referente ao mesmo tema, e Pika Art para gerar uma animação da mesma, e por fim utilizei o Canva para junção da música e video criados.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Resultado do vídeo e música https://youtu.be/8B9H_JvO900
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Maior desafio que encontrei foi de conseguir gerar animações que encaixem bem com a música através da IA geradas, tentarei pensar em uma forma de melhorar.
